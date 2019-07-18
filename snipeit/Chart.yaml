@@ -10,6 +10,3 @@ home: https://snipeitapp.com
 icon: https://snipeitapp.com/img/logos/snipe-it-logo-xs.png
 sources:
 - https://github.com/snipe/snipe-it
-maintainers:
-- name: mschmidt291
-  email: max.schmidt@t3n.de

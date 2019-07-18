@@ -87,7 +87,7 @@ ingress:
   tls: []
   #  - secretName: snipe
   #    hosts:
-  #      - example.local
+  #      -http://snie-IT.internal.connatix.com
 
 mysql-backup:
   enabled: false
