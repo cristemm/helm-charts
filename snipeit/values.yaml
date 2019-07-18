@@ -27,9 +27,9 @@ config:
   snipeit:
     env: production
     debug: false
-    url: http://example.local
+    url: http://snipe-IT.internal.connatix.com
     key: ""
-    timezone: Europe/Berlin
+    timezone: Europe/Bucharest
     locale: en
 
 mysql:
