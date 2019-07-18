@@ -83,7 +83,7 @@ ingress:
     # kubernetes.io/tls-acme: "true"
   path: /
   hosts:
-    - example.local
+    - http://snipe-IT.internal.connatix.com
   tls: []
   #  - secretName: example-local
   #    hosts:
