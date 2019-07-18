@@ -85,7 +85,7 @@ ingress:
   hosts:
     - http://snipe-IT.internal.connatix.com
   tls: []
-  #  - secretName: example-local
+  #  - secretName: snipe
   #    hosts:
   #      - example.local
 
